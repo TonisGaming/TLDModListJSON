@@ -15,7 +15,7 @@
       "updated": "2023-12-23",
       "downloadURL": "https://github.com/TonisGaming/Leatherworks/releases/download/V1.2/Leatherworks.zip",
       "modURL": "https://github.com/TonisGaming/Leatherworks",
-      "description": "Gives you a way to renew leather from hide and make certain leather clothing, and adds tree bark, that can be utilized for many different utilities, like flour, food and string",
+      "description": "Adds a way to renew leather from hide, the ability make certain leather clothing, and adds tree bark, that can be utilized for many different utilities, like flour, food and string",
       "tags": "",
       "categories": [
         "Quality of Life",
@@ -31,7 +31,8 @@
         "ModComponent",
         "LocalizationUtilities",
         "GearSpawner",
-        "CraftingRevisions"
+        "CraftingRevisions",
+        "Modders Gear Toolbox"
       ],
       "status": {
         "working": true,
@@ -103,7 +104,7 @@
       "updated": "2023-12-11",
       "downloadURL": "https://github.com/TonisGaming/ToolUpgrade/releases/download/V1.1.1/ToolUpgrade.zip",
       "modURL": "https://github.com/TonisGaming/ToolUpgrade",
-      "description": "Adds alternate ways by way of blueprints of acquiring item variants and other items",
+      "description": "Adds alternate ways of acquiring item variants and other items by way of blueprints",
       "tags": "",
       "categories": [
         "Gear Items",
@@ -118,7 +119,7 @@
         "LocalizationUtilities",
         "GearSpawner",
         "CraftingRevisions",
-        "Modders' Gear Toolbox"
+        "Modders Gear Toolbox"
       ],
       "status": {
         "working": true,
