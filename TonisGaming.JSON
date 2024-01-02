@@ -1,0 +1,189 @@
+{
+  "version": "2",
+  "author": "TonisGaming",
+  "authorURL": "https://github.com/TonisGaming",
+  "supportURL": "",
+  "mods": [
+    {
+      "type": "mod",
+      "version": "1.2",
+      "name": "Leatherworks",
+      "displayName": "Leatherworks",
+      "author": "TonisGaming",
+      "previousAuthors": "",
+      "released": "2023-11-28",
+      "updated": "2023-12-23",
+      "downloadURL": "https://github.com/TonisGaming/Leatherworks/releases/download/V1.2/Leatherworks.zip",
+      "modURL": "https://github.com/TonisGaming/Leatherworks",
+      "description": "Gives you a way to renew leather from hide and make certain leather clothing, and adds tree bark, that can be utilized for many different utilities, like flour, food and string",
+      "tags": "",
+      "categories": [
+        "Quality of Life",
+        "Gear Items",
+        "Clothing"
+      ],
+      "gameversion": [
+        "tftft"
+      ],
+      "images": [],
+      "dependencies": [
+        "ModSettings",
+        "ModComponent",
+        "LocalizationUtilities",
+        "GearSpawner",
+        "CraftingRevisions"
+      ],
+      "status": {
+        "working": true,
+        "beta": false,
+        "patchnotes": "",
+        "notes": "Unzip the downloaded file, then drop the files into the mods folder. Also has a Camping Tools version ",
+        "issues": ""
+      },
+      "testedon": {
+        "tldversion": "2.25",
+        "mlversion": "0.6.1"
+      },
+      "updater": {
+        "enable": true,
+        "downloads": [
+          "https://github.com/TonisGaming/Leatherworks/releases/download/V1.2/Leatherworks.zip"
+        ]
+      },
+      "aliases": []
+    },
+    {
+      "type": "mod",
+      "version": "1.0",
+      "name": "CanisterRefill",
+      "displayName": "Canister Refill",
+      "author": "TonisGaming",
+      "previousAuthors": "",
+      "released": "2023-12-06",
+      "updated": "",
+      "downloadURL": "https://github.com/TonisGaming/CanisterRefill/releases/download/V1.0/CanisterRefill.dll",
+      "modURL": "https://github.com/TonisGaming/CanisterRefill",
+      "description": "Adds the ability to refill empty canisters used by the respirator",
+      "tags": "",
+      "categories": [
+        "Quality of Life"
+      ],
+      "gameversion": [
+        "tftft"
+      ],
+      "images": [],
+      "dependencies": [],
+      "status": {
+        "working": true,
+        "beta": false,
+        "patchnotes": "",
+        "notes": "Drop the file into the mods folder",
+        "issues": ""
+      },
+      "testedon": {
+        "tldversion": "2.25",
+        "mlversion": "0.6.1"
+      },
+      "updater": {
+        "enable": true,
+        "downloads": [
+          "https://github.com/TonisGaming/CanisterRefill/releases/download/V1.0/CanisterRefill.dll"
+        ]
+      },
+      "aliases": []
+    },
+    {
+      "type": "mod",
+      "version": "1.1.1",
+      "name": "ToolUpgrade",
+      "displayName": "Tool Upgrade",
+      "author": "TonisGaming",
+      "previousAuthors": "TheDevv",
+      "released": "2023-11-24",
+      "updated": "2023-12-11",
+      "downloadURL": "https://github.com/TonisGaming/ToolUpgrade/releases/download/V1.1.1/ToolUpgrade.zip",
+      "modURL": "https://github.com/TonisGaming/ToolUpgrade",
+      "description": "Adds alternate ways by way of blueprints of acquiring item variants and other items",
+      "tags": "",
+      "categories": [
+        "Gear Items",
+        "Clothing"
+      ],
+      "gameversion": [
+        "tftft"
+      ],
+      "images": [],
+      "dependencies": [
+        "ModComponent",
+        "LocalizationUtilities",
+        "GearSpawner",
+        "CraftingRevisions",
+        "Modders' Gear Toolbox"
+      ],
+      "status": {
+        "working": true,
+        "beta": false,
+        "patchnotes": "",
+        "notes": "Unzip the downloaded file, then drop the files into the mods folder, also has a Candlelight version",
+        "issues": ""
+      },
+      "testedon": {
+        "tldversion": "2.25",
+        "mlversion": "0.6.1"
+      },
+      "updater": {
+        "enable": true,
+        "downloads": [
+          "https://github.com/TonisGaming/ToolUpgrade/releases/download/V1.1.1/ToolUpgrade.zip"
+        ]
+      },
+      "aliases": []
+    },
+    {
+      "type": "mod",
+      "version": "1.1",
+      "name": "DeadAir",
+      "displayName": "Dead Air",
+      "author": "TonisGaming",
+      "previousAuthors": "",
+      "released": "2023-12-10",
+      "updated": "2023-12-11",
+      "downloadURL": "https://github.com/TonisGaming/DeadAir/releases/download/BETA-1.1/DeadAir.zip",
+      "modURL": "https://github.com/TonisGaming/DeadAir",
+      "description": " IT IS HIGHLY SUGGESTED TO USE THIS ON ONLY NEW SAVES. Turns the entirety of Great Bear into a toxic wasteland, similar to ZoC's chemical pools. Expect issues ",
+      "tags": "",
+      "categories": [
+        "Gameplay",
+        "Gear Items"
+      ],
+      "gameversion": [
+        "tftft"
+      ],
+      "images": [],
+      "dependencies": [
+        "ModComponent",
+        "LocalizationUtilities",
+        "GearSpawner",
+        "CraftingRevisions"
+      ],
+      "status": {
+        "working": true,
+        "beta": true,
+        "patchnotes": "",
+        "notes": "Unzip the downloaded file and place the files into the mods folder",
+        "issues": "Sometimes the masks filter doesn't drain\nThe improvised filter sometimes stops functioning"
+      },
+      "testedon": {
+        "tldversion": "2.25",
+        "mlversion": "0.6.1"
+      },
+      "updater": {
+        "enable": true,
+        "downloads": [
+          "https://github.com/TonisGaming/DeadAir/releases/download/BETA-1.1/DeadAir.zip"
+        ]
+      },
+      "aliases": []
+    }
+  ]
+}
