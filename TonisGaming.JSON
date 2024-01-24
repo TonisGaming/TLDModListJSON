@@ -46,9 +46,9 @@
         "mlversion": "0.6.1"
       },
       "updater": {
-        "enable": true,
+        "enable": false,
         "downloads": [
-          "https://github.com/TonisGaming/Leatherworks/releases/download/V1.2.1/Leatherworks.zip"
+          ""
         ]
       },
       "aliases": []
@@ -86,9 +86,9 @@
         "mlversion": "0.6.1"
       },
       "updater": {
-        "enable": true,
+        "enable": false,
         "downloads": [
-          "https://github.com/TonisGaming/CanisterRefill/releases/download/V1.0/CanisterRefill.dll"
+          ""
         ]
       },
       "aliases": []
@@ -133,9 +133,9 @@
         "mlversion": "0.6.1"
       },
       "updater": {
-        "enable": true,
+        "enable": false,
         "downloads": [
-          "https://github.com/TonisGaming/ToolUpgrade/releases/download/V1.1.1/ToolUpgrade.zip"
+          ""
         ]
       },
       "aliases": []
@@ -179,9 +179,9 @@
         "mlversion": "0.6.1"
       },
       "updater": {
-        "enable": true,
+        "enable": false,
         "downloads": [
-          "https://github.com/TonisGaming/DeadAir/releases/download/BETA-1.1/DeadAir.zip"
+          ""
         ]
       },
       "aliases": []
