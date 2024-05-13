@@ -185,6 +185,52 @@
         ]
       },
       "aliases": []
-    }
+    },
+	{
+			"type": "mod",
+			"version": "1.0.0",
+			"name": "Clothing Expanded",
+			"displayName": "",
+			"author": "TonisGaming",
+			"previousAuthors": "",
+			"released": "2024-05-14",
+			"updated": "2024-05-14",
+			"downloadURL": "https://github.com/TonisGaming/ClothingExpanded/releases/tag/V1.0.0",
+			"modURL": "https://github.com/TonisGaming/ClothingExpanded",
+			"description": "Adds a way to combine accessories with clothing to have even more accessories equipped at the same time",
+			"tags": "",
+			"categories": [
+				"Quality of Life",
+				"Gear Items",
+				"Clothing"
+			],
+			"gameversion": [
+				"tftft"
+			],
+			"images": [],
+			"dependencies": [
+				"ModComponent",
+				"LocalizationUtilities",
+				"GearSpawner",
+				"CraftingRevisions",
+				"Modders' Gear Toolbox"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.27",
+				"mlversion": "0.6.1"
+			},
+			"updater": {
+				"enable": false,
+				"downloads": []
+			},
+			"aliases": []
+		}
   ]
 }
