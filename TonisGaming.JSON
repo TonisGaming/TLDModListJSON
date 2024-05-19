@@ -6,14 +6,14 @@
   "mods": [
     {
       "type": "mod",
-      "version": "1.2.1",
+      "version": "1.2.2",
       "name": "Leatherworks",
       "displayName": "Leatherworks",
       "author": "TonisGaming",
       "previousAuthors": "",
       "released": "2023-11-28",
-      "updated": "2024-01-03",
-      "downloadURL": "https://github.com/TonisGaming/Leatherworks/releases/download/V1.2.1/Leatherworks.zip",
+      "updated": "2024-05-19",
+      "downloadURL": "https://github.com/TonisGaming/Leatherworks/releases/download/V1.2.2/Leatherworks.zip",
       "modURL": "https://github.com/TonisGaming/Leatherworks",
       "description": "Adds a way to renew leather from hide, the ability to make certain leather clothing, and adds tree bark, that can be utilized for many different utilities, like flour, food and string",
       "tags": "",
@@ -42,7 +42,7 @@
         "issues": ""
       },
       "testedon": {
-        "tldversion": "2.26",
+        "tldversion": "2.27",
         "mlversion": "0.6.1"
       },
       "updater": {
@@ -188,14 +188,14 @@
     },
 	{
 			"type": "mod",
-			"version": "1.0.2",
+			"version": "1.0.3",
 			"name": "Clothing Expanded",
 			"displayName": "",
 			"author": "TonisGaming",
 			"previousAuthors": "",
 			"released": "2024-05-14",
-			"updated": "2024-06-16",
-			"downloadURL": "https://github.com/TonisGaming/ClothingExpanded/releases/tag/V1.0.2",
+			"updated": "2024-05-19",
+			"downloadURL": "https://github.com/TonisGaming/ClothingExpanded/releases/tag/V1.0.3",
 			"modURL": "https://github.com/TonisGaming/ClothingExpanded",
 			"description": "Adds a way to combine accessories with clothing to have even more accessories equipped at the same time",
 			"tags": "",
