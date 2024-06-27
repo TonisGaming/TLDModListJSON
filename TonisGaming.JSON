@@ -6,14 +6,14 @@
   "mods": [
     {
       "type": "mod",
-      "version": "1.2.2",
+      "version": "1.2.3",
       "name": "Leatherworks",
       "displayName": "Leatherworks",
       "author": "TonisGaming",
       "previousAuthors": "",
       "released": "2023-11-28",
-      "updated": "2024-05-19",
-      "downloadURL": "https://github.com/TonisGaming/Leatherworks/releases/download/V1.2.2/Leatherworks.zip",
+      "updated": "2024-06-27",
+      "downloadURL": "https://github.com/TonisGaming/Leatherworks/releases/download/V1.2.3/Leatherworks.zip",
       "modURL": "https://github.com/TonisGaming/Leatherworks",
       "description": "Adds a way to renew leather from hide, the ability to make certain leather clothing, and adds tree bark, that can be utilized for many different utilities, like flour, food and string",
       "tags": "",
@@ -42,7 +42,7 @@
         "issues": ""
       },
       "testedon": {
-        "tldversion": "2.27",
+        "tldversion": "2.29",
         "mlversion": "0.6.1"
       },
       "updater": {
