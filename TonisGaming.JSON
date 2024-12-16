@@ -212,8 +212,7 @@
 				"ModComponent",
 				"LocalizationUtilities",
 				"GearSpawner",
-				"CraftingRevisions",
-				"Modders' Gear Toolbox"
+				"CraftingRevisions"
 			],
 			"status": {
 				"working": true,
