@@ -219,7 +219,7 @@
 				"beta": false,
 				"patchnotes": "",
 				"notes": "",
-				"issues": ""
+				"issues": "Items may get duplicated when combining/uncombining clothing items."
 			},
 			"testedon": {
 				"tldversion": "2.39",
